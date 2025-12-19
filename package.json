@@ -44,7 +44,6 @@
     "jest-canvas-mock": "^2.3.1",
     "lottie-react": "^2.4.0",
     "lucide-react": "0.561.0",
-    "next": "16.0.10",
     "prop-types": "latest",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
