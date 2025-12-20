@@ -308,7 +308,7 @@ const achievementSection = {
       title: "Competitive Programming",
       subtitle:
         "Solved 400+ problems on LeetCode and GeeksForGeeks. Achieved 2-star rating (1447+) on CodeChef.",
-      image: "/competitive-programming-coding-algorithm.jpg",
+      image: "/programming.jpg",
       imageAlt: "Coding Logo",
       footerLink: [
         {
