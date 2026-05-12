@@ -23,7 +23,7 @@ const greeting = {
   username: "Raman Kumar Bajpai",
   title: "Hi all, I'm Raman",
   subTitle: emoji(
-    "A passionate Full Stack Software Developer 🚀 with experience building production-grade SaaS platforms using Next.js, React, TypeScript, Node.js, NestJS, and modern web technologies. Specialized in scalable frontend architecture and backend API development."
+    "A passionate Full Stack Software Developer 🚀 with experience building production-grade SaaS platforms using Next.js, React, TypeScript, Node.js, NestJS, and modern web technologies. Specialized in scalable frontend architecture and backend API development.",
   ),
   resumeLink: "", // Add your resume link here if you want to display it
   displayGreeting: true, // Set false to hide this section, defaults to true
@@ -47,13 +47,13 @@ const skillsSection = {
   subTitle: "PASSIONATE FULL STACK DEVELOPER BUILDING SCALABLE SAAS PLATFORMS",
   skills: [
     emoji(
-      "⚡ Develop highly scalable and performant SaaS applications with Next.js, React, and TypeScript"
+      "⚡ Develop highly scalable and performant SaaS applications with Next.js, React, and TypeScript",
     ),
     emoji(
-      "⚡ Build secure RESTful APIs and real-time integrations with NestJS, Node.js, and MongoDB"
+      "⚡ Build secure RESTful APIs and real-time integrations with NestJS, Node.js, and MongoDB",
     ),
     emoji(
-      "⚡ Implement modern authentication systems, state management, and cloud-based solutions"
+      "⚡ Implement modern authentication systems, state management, and cloud-based solutions",
     ),
   ],
 
@@ -313,11 +313,11 @@ const achievementSection = {
       footerLink: [
         {
           name: "LeetCode Profile",
-          url: "https://leetcode.com/",
+          url: "https://leetcode.com/u/ramanbajpai/",
         },
         {
           name: "GFG Profile",
-          url: "https://auth.geeksforgeeks.org/",
+          url: "https://www.geeksforgeeks.org/profile/ramanbajpai?tab=activity",
         },
       ],
     },

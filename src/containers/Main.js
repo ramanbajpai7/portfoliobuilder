@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import Header from "../components/header/Header";
+import Footer from "../components/footer/Footer";
 import Greeting from "./greeting/Greeting";
 import Skills from "./skills/Skills";
 import StackProgress from "./skillProgress/skillProgress";
@@ -30,7 +31,7 @@ const Main = () => {
     if (splashScreen.enabled) {
       const splashTimer = setTimeout(
         () => setIsShowingSplashAnimation(false),
-        splashScreen.duration
+        splashScreen.duration,
       );
       return () => {
         clearTimeout(splashTimer);
@@ -63,7 +64,7 @@ const Main = () => {
             <Twitter />
             <Podcast />
             <Profile />
-            {/* <Footer /> */}
+            <Footer />
             <ScrollToTopButton />
           </>
         )}
